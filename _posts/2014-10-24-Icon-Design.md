@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sketch icon [Medal]
+title: Sketch icon - Medal
 ---
 
 A flower medal :)
 
-![_config.yml]({{ site.baseurl }}/images/design/medal.png)
+![_config.yml]({{ site.baseurl }}/images/design/medal.jpg)
