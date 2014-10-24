@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+About me :)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+My name is Benz Lee.
+
+I come from China.
+
+I am a web designer & frontend developer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[benz@benzlee.com](mailto:benz@benzlee.com)
