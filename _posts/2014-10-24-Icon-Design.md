@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Design notebook
+title: Sketch icon [Medal]
 ---
 
-This is my first blog post. :simle.
+A flower medal :)
 
-Let's begin my blog life.
+![_config.yml]({{ site.baseurl }}/images/design/medal.png)
