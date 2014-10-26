@@ -16,4 +16,4 @@ I am a web designer & frontend developer.
 
 ### Contact me
 
-[benz@benzlee.com](mailto:benz@benzlee.com)
+[benzlee@yeah.net](mailto:benzlee@yeah.net)
