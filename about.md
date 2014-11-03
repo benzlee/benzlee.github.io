@@ -17,3 +17,8 @@ I am a web designer & frontend developer.
 ### Contact me
 
 [benzlee@yeah.net](mailto:benzlee@yeah.net)
+
+### Friends' links
+
+[Qzhou's Blog](http://qzhouz.github.io/)
+[Simon's Blog](http://hdu104.com/) 
