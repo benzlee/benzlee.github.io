@@ -21,4 +21,5 @@ I am a web designer & frontend developer.
 ### Friends' links
 
 [Qzhou's Blog](http://qzhouz.github.io/)
+
 [Simon's Blog](http://hdu104.com/) 
