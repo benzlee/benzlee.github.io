@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketch icon - Phonograph
+title: Sketch icon 03 - Phonograph
 ---
 
 A phonograph icon :)
