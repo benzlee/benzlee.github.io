@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketch icon 15 - Telephone
+title: Sketch icon 16 - Telephone
 ---
 
 A Telephone icon :)
