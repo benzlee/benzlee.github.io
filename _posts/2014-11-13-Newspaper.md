@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketch icon 19 - Newspaper
+title: Sketch icon 20 - Newspaper
 ---
 
 A newspaper icon :)
