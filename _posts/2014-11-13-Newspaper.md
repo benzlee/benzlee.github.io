@@ -7,4 +7,4 @@ A newspaper icon :)
 
 ![_config.yml]({{ site.baseurl }}/images/design/newspaper.jpg)
 
-打折标签。
+质感做得不是很好。
